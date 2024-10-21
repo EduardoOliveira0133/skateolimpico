@@ -1,0 +1,620 @@
+{
+    "atletas": [
+        {
+            "nome": "Tate Crew",
+            "idade": 19,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Keegan Palmer",
+            "idade": 21,
+            "pais": "Austrália",
+            "medalhas": 2,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Gavin Bottger",
+            "idade": 17,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Tom Schaar",
+            "idade": 25,
+            "pais": "EUA",
+            "medalhas": 1,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Augusto Akio",
+            "idade": 23,
+            "pais": "Brasil",
+            "medalhas": 1,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Kieran Woolley",
+            "idade": 20,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Luigi Cini",
+            "idade": 22,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Pedro Barros",
+            "idade": 29,
+            "pais": "Brasil",
+            "medalhas": 1,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Danny León",
+            "idade": 29,
+            "pais": "Espanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Viktor Solmunde",
+            "idade": 17,
+            "pais": "Dinamarca",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Keefer Wilson",
+            "idade": 17,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Alex Sorgente",
+            "idade": 26,
+            "pais": "Itália",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Hampus Winberg",
+            "idade": 18,
+            "pais": "Suécia",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Vincent Matheron",
+            "idade": 26,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Steven Piñeiro",
+            "idade": 27,
+            "pais": "Porto Rico",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Yuro Nagahara",
+            "idade": 19,
+            "pais": "Japão",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Alessandro Mazzara",
+            "idade": 20,
+            "pais": "Itália",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Thomas Augusto",
+            "idade": 20,
+            "pais": "Portugal",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Alanin Kortabitarte",
+            "idade": 19,
+            "pais": "Espanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Dallas Oberholzer",
+            "idade": 51,
+            "pais": "Grã-Bretanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Tyler Edtmayer",
+            "idade": 23,
+            "pais": "Alemanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Ginwoo Onodera",
+            "idade": 14,
+            "pais": "Japão",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Sora Shirai",
+            "idade": 22,
+            "pais": "Japão",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Yuto Horigome",
+            "idade": 25,
+            "pais": "Japão",
+            "medalhas": 2,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Jagger Eaton",
+            "idade": 23,
+            "pais": "EUA",
+            "medalhas": 2,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Nyjah Huston",
+            "idade": 29,
+            "pais": "EUA",
+            "medalhas": 1,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Gustavo Ribeiro",
+            "idade": 23,
+            "pais": "Portugal",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Chris Joslin",
+            "idade": 28,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Richard Tury",
+            "idade": 31,
+            "pais": "Eslováquia",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Matias Dell Olio",
+            "idade": 27,
+            "pais": "Argentina",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Aurélien Giraud",
+            "idade": 26,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Kevin Hoefler",
+            "idade": 31,
+            "pais": "Brasil",
+            "medalhas": 1,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Giovanni Vianna",
+            "idade": 23,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Cordano Russell",
+            "idade": 20,
+            "pais": "Canadá",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Matt Berger",
+            "idade": 31,
+            "pais": "Canadá",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Ryan Decenzo",
+            "idade": 38,
+            "pais": "Canadá",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Joseph Garbaccio",
+            "idade": 26,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Felipe Gustavo",
+            "idade": 33,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Vincent Milou",
+            "idade": 27,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Shane O’Neill",
+            "idade": 34,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Brandon Valjalo",
+            "idade": 26,
+            "pais": "África do Sul",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Jhancarlos González",
+            "idade": 27,
+            "pais": "Colômbia",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Mauro Iglesias",
+            "idade": 24,
+            "pais": "Argentina",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Andrew MacDonald",
+            "idade": 49,
+            "pais": "África do Sul",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Kokona Hirarki",
+            "idade": 16,
+            "pais": "Japão",
+            "medalhas": 2,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Arisa Trew",
+            "idade": 14,
+            "pais": "Austrália",
+            "medalhas": 1,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Sakura Yosozumi",
+            "idade": 22,
+            "pais": "Japão",
+            "medalhas": 1,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Sky Brown",
+            "idade": 16,
+            "pais": "Grã-Bretanha",
+            "medalhas": 2,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Hinano Kusaki",
+            "idade": 16,
+            "pais": "Japão",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Raicca Ventura",
+            "idade": 17,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Bryce Wettstein",
+            "idade": 20,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Ruby Trew",
+            "idade": 15,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Dora Varella",
+            "idade": 23,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Ruby Lilley",
+            "idade": 17,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Isadora Pacheco",
+            "idade": 19,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Minna Stess",
+            "idade": 18,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Naia Lasso",
+            "idade": 14,
+            "pais": "Espanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Heili Sirvio",
+            "idade": 13,
+            "pais": "Finlândia",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Lily Stoephasius",
+            "idade": 17,
+            "pais": "Alemanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Nana Taboulet",
+            "idade": 15,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Lola Tambling",
+            "idade": 16,
+            "pais": "Grã-Bretanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Fay Ebert",
+            "idade": 14,
+            "pais": "Canadá",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Emilie Alexandre",
+            "idade": 18,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Aya Asaqas",
+            "idade": 22,
+            "pais": "Marrocos",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Julia Benedetti",
+            "idade": 20,
+            "pais": "Espanha",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Zheng Haohao",
+            "idade": 11,
+            "pais": "China",
+            "medalhas": 0,
+            "categoria": "Park"
+        },
+        {
+            "nome": "Lucie Schoonheere",
+            "idade": 14,
+            "pais": "França",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Coco Yoshizawa",
+            "idade": 15,
+            "pais": "Japão",
+            "medalhas": 1,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Liz Akama",
+            "idade": 15,
+            "pais": "Japão",
+            "medalhas": 1,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Funa Nakayama",
+            "idade": 19,
+            "pais": "Japão",
+            "medalhas": 1,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Rayssa Leal",
+            "idade": 16,
+            "pais": "Brasil",
+            "medalhas": 2,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Chloe Covell",
+            "idade": 14,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Cui Chenxi",
+            "idade": 14,
+            "pais": "China",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Payge Heyn",
+            "idade": 16,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Poe Pinson",
+            "idade": 19,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Zeng Wenhui",
+            "idade": 19,
+            "pais": "China",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Zhu Yuanling",
+            "idade": 13,
+            "pais": "China",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Roos Zwetsloot",
+            "idade": 24,
+            "pais": "Holanda",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Pâmela Rosa",
+            "idade": 25,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Jazmin Álvarez",
+            "idade": 25,
+            "pais": "Colômbia",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Natália Muñoz",
+            "idade": 15,
+            "pais": "Colômbia",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Liv Lovelace",
+            "idade": 20,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Keet Oldenbeuving",
+            "idade": 20,
+            "pais": "Holanda",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Gabi Mazetto",
+            "idade": 26,
+            "pais": "Brasil",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Vareeraya Sukasem",
+            "idade": 12,
+            "pais": "Taiti",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Mariah Duran",
+            "idade": 27,
+            "pais": "EUA",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Boipelo Awuah",
+            "idade": 18,
+            "pais": "África do Sul",
+            "medalhas": 0,
+            "categoria": "Street"
+        },
+        {
+            "nome": "Haylie Powell",
+            "idade": 18,
+            "pais": "Austrália",
+            "medalhas": 0,
+            "categoria": "Street"
+        }
+    ]
+}
